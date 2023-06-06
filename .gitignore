@@ -6,6 +6,9 @@
 .pnp.js
 .vscode/
 /audios
+/credentials.json
+/oauth_credentials.json
+/tokens.json
 
 # testing
 /coverage
